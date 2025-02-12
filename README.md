@@ -1,1 +1,2 @@
 # Alzheimers_prediction
+This project aims to predict Alzheimer's disease using various machine learning models such as logistic regression, random forest, KNN, decision tree and support vector machine. The dataset includes features related to demographics, medical history, and cognitive performance, which are processed and used to train different models to predict the likelihood of Alzheimer's disease.
